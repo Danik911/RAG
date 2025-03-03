@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JupyterProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/ingestion_pipeline.ipynb" afterDir="false" />
+    <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="indexing practice">
+      <change afterPath="$PROJECT_DIR$/prototype/data_storage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="Jupyter Notebook" />
       </list>
     </option>
@@ -36,8 +33,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Danik911&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Danik911/RAG.git&quot;,
+    &quot;accountId&quot;: &quot;d6a29dfd-afdd-47b5-a343-48a5697b6c26&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -51,22 +65,31 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;practice&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/anteb/PycharmProjects/JupyterProject/naive_rag/ingestion_pipeline&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\data\raw" />
+      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\helpers" />
+      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\ingestion_pipeline" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="rag_articles" />
+    </option>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -87,8 +110,35 @@
       <workItem from="1740557945814" duration="834000" />
       <workItem from="1740561447105" duration="1837000" />
       <workItem from="1740590536277" duration="4304000" />
-      <workItem from="1740595314216" duration="1020000" />
+      <workItem from="1740595314216" duration="1918000" />
+      <workItem from="1740678203719" duration="3278000" />
+      <workItem from="1740682780242" duration="5667000" />
+      <workItem from="1740688523286" duration="6176000" />
+      <workItem from="1740727773471" duration="3656000" />
+      <workItem from="1740734200788" duration="1174000" />
+      <workItem from="1740738328208" duration="432000" />
+      <workItem from="1740774636303" duration="7843000" />
+      <workItem from="1740900061097" duration="1456000" />
+      <workItem from="1741014085139" duration="1215000" />
+      <workItem from="1741020590332" duration="6839000" />
     </task>
+    <task id="LOCAL-00001" summary="set up">
+      <option name="closed" value="true" />
+      <created>1740596378213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740596378213</updated>
+    </task>
+    <task id="LOCAL-00002" summary="indexing practice">
+      <option name="closed" value="true" />
+      <created>1740858918252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740858918252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,5 +154,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set up" />
+    <MESSAGE value="indexing practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="indexing practice" />
   </component>
 </project>
