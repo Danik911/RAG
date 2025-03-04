@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="indexing practice">
-      <change afterPath="$PROJECT_DIR$/prototype/data_storage.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prototype/data_storage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/prototype/data_storage.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,9 @@
       <workItem from="1740774636303" duration="7843000" />
       <workItem from="1740900061097" duration="1456000" />
       <workItem from="1741014085139" duration="1215000" />
-      <workItem from="1741020590332" duration="6839000" />
+      <workItem from="1741020590332" duration="7321000" />
+      <workItem from="1741073811304" duration="5468000" />
+      <workItem from="1741079497511" duration="243000" />
     </task>
     <task id="LOCAL-00001" summary="set up">
       <option name="closed" value="true" />
@@ -159,5 +161,16 @@
     <MESSAGE value="set up" />
     <MESSAGE value="indexing practice" />
     <option name="LAST_COMMIT_MESSAGE" value="indexing practice" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/prototype/data_storage.ipynb</url>
+          <line>107</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
