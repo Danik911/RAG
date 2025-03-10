@@ -77,7 +77,7 @@ def setup_vector_store(qdrant_url, qdrant_api_key, collection_name, enable_hybri
     return vector_store
 
 
-def get_documents_from_docstore(persist_dir):
+def retrieve_documents(persist_dir):
     """
     Retrieves the Document objects out of a specified document store.
 
