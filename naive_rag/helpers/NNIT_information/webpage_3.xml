@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<webpage>
+  <title>Pharma 4.0 Operating Model | Industry 4.0 | ISPE | International Society for Pharmaceutical Engineering</title>
+  <text>
+    <paragraph>ISPE and its members are developing the roadmap to introduce Industry 4.0, also referred to as the Smart Factory, to the pharmaceutical industry asPharma 4.0™.</paragraph>
+    <paragraph>The aim is to provide practical guidance, embedding regulatory best practices, to accelerate Pharma 4.0™ transformations. The objective is to enable organizations involved in the pharmaceutical product lifecycle to leverage the full potential of digitalization to provide faster therapeutic innovations and improved production processes for the benefit of patients.</paragraph>
+    <paragraph>Implementing new Industry 4.0-based manufacturing concepts inPharma 4.0™requires alignment of expectations, definitions, and interpretation, with global pharmaceutical regulations.</paragraph>
+    <paragraph>While Industry 4.0 has been called a new industrial revolution,Pharma 4.0™implementation will more likely resemble an evolution in which digitalization and automation meet very complex product portfolios and cycles. It is therefore important to achieve an accepted understanding of readiness and maturity, starting with additional digital enablers and elements added to the ICH Q10: The Pharmaceutical Quality System along the product life cycle. It is also important to develop business cases to showcase which Industry 4.0 automation and digitalization technologies can be applied to the pharmaceutical industry and what implications are faced due to the increasingly complex regulatory challenges in the pharmaceutical and biotechnology industries.</paragraph>
+    <paragraph>Digitalization, an important component ofPharma 4.0™, will connect everything, creating new levels of transparency and adaptivity for a “smart” plant floor. This will enable faster decision-making, and provide in-line and on-time control over business, operations, quality, and regulatory compliance. Notably, this new connectedness will require higher levels of security, since linked systems heighten vulnerability.</paragraph>
+    <paragraph>View all related content</paragraph>
+    <paragraph>The ISPE Pharma 4.0™ Community of Practice (CoP) is comprised of ISPE Members engaged in implementing Pharma 4.0™ principles in their organizations or simply wanting to learn more about the concepts and network with other members interested in the topic. Membership in the Pharma 4.0™ CoP is open to all ISPE Members. For information on joining, visit theISPE Communities of Practicepage.</paragraph>
+    <paragraph>ISPE’s Pharma 4.0™ CoP Steering Committee and Working Groups have developed anoperating modelto apply the principles of Industry 4.0 to Pharma 4.0™ which is summarized in the image below.</paragraph>
+    <paragraph>View all related content</paragraph>
+    <paragraph></paragraph>
+    <paragraph>Collaborate globally, Drive Innovation, Lead Conversations, and more.Explore the benefits of ISPE Membership.</paragraph>
+    <paragraph>Join/Renew</paragraph>
+    <paragraph>The International Society for Pharmaceutical Engineering (ISPE) is a nonprofit association serving its members by leading scientific, technological and regulatory advancement throughout the entire pharmaceutical lifecycle.</paragraph>
+    <paragraph>813-960-2105|ask@ispe.org</paragraph>
+    <paragraph>Copyright © 2025 International Society for Pharmaceutical Engineering.</paragraph>
+    <paragraph>All rights reserved, including rights for text and data mining</paragraph>
+    <paragraph>and training of artificial intelligence technologies or similar technologies.</paragraph>
+  </text>
+  <graphs>
+    <graph>&lt;svg class="w-6 h-6" fill="none" stroke="currentColor" viewbox="0 0 24 24"&gt;
+&lt;path :class="{'hidden': open, 'inline-flex': !open }" class="inline-flex" d="M4 6h16M4 12h16M4 18h16" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"&gt;&lt;/path&gt;
+&lt;path :class="{'hidden': !open, 'inline-flex': open }" class="hidden" d="M6 18L18 6M6 6l12 12" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"&gt;&lt;/path&gt;
+&lt;/svg&gt;</graph>
+  </graphs>
+</webpage>

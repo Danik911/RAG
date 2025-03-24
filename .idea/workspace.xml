@@ -4,24 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="indexing practice">
-      <change afterPath="$PROJECT_DIR$/naive_rag/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/IngestionCacheManager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/2023 Global Life Sciences Outlook.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/data_scraper.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/prompts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/text_cleaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prototype/agent_practice.ipynb" afterDir="false" />
+    <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="create ingestion_pipeline.ipynb">
+      <change afterPath="$PROJECT_DIR$/agentic_rag/agentic_rag.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agentic_rag/multi_agent.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/Our History.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/Our Strategy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/Our Values.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Decarbonizing Pharmaceutical Manufacturing Facilities.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/How Sligo’s SL Controls scaled the Industry 4.0 revolution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/PHARMACEUTICAL GLOBALIZATION - Navigating Opportunities &amp;amp; Obstacles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Pharma’s Digital Transformation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Press Release SL Controls to merge with multinational NNIT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Smart Factory Trends that Will Shape the Life Sciences Sector in 2025.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Solutions Digital Transformation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/The Roadmap toward Personalized Medicine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/markdown_remover.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/pipeline_storage/docstore.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/pipeline_storage/llama_cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naive_rag/helpers/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/helpers/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/ingestion_pipeline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/ingestion_pipeline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/ingestion_pipeline.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/prototype/rag_articles/2502.20364.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/data/raw/2502.20364.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prototype/rag_articles/2502.20964.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/data/raw/2502.20964.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prototype/rag_articles/2502.20969.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/data/raw/2502.20969.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prototype/rag_articles/2502.20995.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/data/raw/2502.20995.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prototype/rag_articles/2502.21087.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/data/raw/2502.21087.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prototype/rag_articles/2502.21263.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/naive_rag/data/raw/2502.21263.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/naive_rag/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +48,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -89,7 +106,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.LLMConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -144,8 +161,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
-        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
@@ -178,7 +195,16 @@
       <workItem from="1741206847024" duration="55000" />
       <workItem from="1741282141792" duration="6047000" />
       <workItem from="1741595255294" duration="5564000" />
-      <workItem from="1741621049293" duration="875000" />
+      <workItem from="1741621049293" duration="2654000" />
+      <workItem from="1741634981748" duration="227000" />
+      <workItem from="1742207122786" duration="1000" />
+      <workItem from="1742207315825" duration="2072000" />
+      <workItem from="1742280062792" duration="2284000" />
+      <workItem from="1742837784343" duration="302000" />
+      <workItem from="1742838238112" duration="1590000" />
+      <workItem from="1742839851243" duration="627000" />
+      <workItem from="1742840555275" duration="2765000" />
+      <workItem from="1742843352685" duration="3619000" />
     </task>
     <task id="LOCAL-00001" summary="set up">
       <option name="closed" value="true" />
@@ -196,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740858918252</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="create ingestion_pipeline.ipynb">
+      <option name="closed" value="true" />
+      <created>1741622026429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741622026429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +250,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="set up" />
     <MESSAGE value="indexing practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="indexing practice" />
+    <MESSAGE value="create ingestion_pipeline.ipynb" />
+    <option name="LAST_COMMIT_MESSAGE" value="create ingestion_pipeline.ipynb" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
