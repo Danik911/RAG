@@ -4,41 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="create ingestion_pipeline.ipynb">
-      <change afterPath="$PROJECT_DIR$/agentic_rag/agentic_rag.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/agentic_rag/multi_agent.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/Our History.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/Our Strategy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/Our Values.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_14.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_15.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/NNIT_information/webpage_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Decarbonizing Pharmaceutical Manufacturing Facilities.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/How Sligo’s SL Controls scaled the Industry 4.0 revolution.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/PHARMACEUTICAL GLOBALIZATION - Navigating Opportunities &amp;amp; Obstacles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Pharma’s Digital Transformation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Press Release SL Controls to merge with multinational NNIT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Smart Factory Trends that Will Shape the Life Sciences Sector in 2025.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/Solutions Digital Transformation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/change_management_articles/The Roadmap toward Personalized Medicine.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/helpers/markdown_remover.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/pipeline_storage/docstore.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/naive_rag/ingestion_pipeline/pipeline_storage/llama_cache" afterDir="false" />
+    <list default="true" id="3b221ee4-bd77-4fb1-bca6-1d87d4dce490" name="Changes" comment="create multi-agent">
+      <change afterPath="$PROJECT_DIR$/agentic_rag/chroma_pipeline.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/data/ai_articles/AGENTIC RETRIEVAL-AUGMENTED GENERATION A SURVEY ON AGENTIC RAG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/naive_rag/data/ai_articles/AIstorian lets AI be a historian A KG-powered multi-agent system.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/naive_rag/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/agentic_rag/multi_agent.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/agentic_rag/multi_agent.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +42,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -93,34 +65,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.pdf_cracker.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;practice&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/anteb/PycharmProjects/JupyterProject/naive_rag/helpers&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.pdf_cracker.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "practice",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/anteb/PycharmProjects/JupyterProject/naive_rag/data/ai_articles",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\data\ai_articles" />
+      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\data\research_docs" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\data\raw" />
       <recent name="C:\Users\anteb\anaconda3\Lib\site-packages\helpers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\data\research_docs" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\helpers" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\data\raw" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\helpers\change_management_articles" />
       <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag\ingestion_pipeline" />
-      <recent name="C:\Users\anteb\PycharmProjects\JupyterProject\naive_rag" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -204,7 +179,24 @@
       <workItem from="1742838238112" duration="1590000" />
       <workItem from="1742839851243" duration="627000" />
       <workItem from="1742840555275" duration="2765000" />
-      <workItem from="1742843352685" duration="3619000" />
+      <workItem from="1742843352685" duration="3665000" />
+      <workItem from="1742885618781" duration="9057000" />
+      <workItem from="1742897914269" duration="1444000" />
+      <workItem from="1742899385972" duration="269000" />
+      <workItem from="1742899664053" duration="1303000" />
+      <workItem from="1742900982463" duration="521000" />
+      <workItem from="1742901511715" duration="675000" />
+      <workItem from="1742902198238" duration="324000" />
+      <workItem from="1742902531634" duration="350000" />
+      <workItem from="1742902890921" duration="1850000" />
+      <workItem from="1742904762702" duration="529000" />
+      <workItem from="1742905301018" duration="1242000" />
+      <workItem from="1742906606880" duration="1841000" />
+      <workItem from="1742908474666" duration="417000" />
+      <workItem from="1742915752097" duration="944000" />
+      <workItem from="1742916836366" duration="3758000" />
+      <workItem from="1742929171818" duration="222000" />
+      <workItem from="1742929405647" duration="5820000" />
     </task>
     <task id="LOCAL-00001" summary="set up">
       <option name="closed" value="true" />
@@ -230,7 +222,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741622026429</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create multi-agent">
+      <option name="closed" value="true" />
+      <created>1742847011709</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742847011709</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,17 +251,18 @@
     <MESSAGE value="set up" />
     <MESSAGE value="indexing practice" />
     <MESSAGE value="create ingestion_pipeline.ipynb" />
-    <option name="LAST_COMMIT_MESSAGE" value="create ingestion_pipeline.ipynb" />
+    <MESSAGE value="create multi-agent" />
+    <option name="LAST_COMMIT_MESSAGE" value="create multi-agent" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/prototype/data_storage.ipynb</url>
-          <line>107</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
